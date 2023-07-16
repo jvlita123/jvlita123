@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julita</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a fourth-year student of computer science, and I aspire to develop myself as a backend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jvlita123&label=Profile%20views&color=0e75b6&style=flat" alt="jvlita123" /> </p>
 
 - 🌱 I’m currently learning **.Net**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
