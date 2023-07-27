@@ -1,4 +1,4 @@
-[![https://tenor.com/pl/view/surprised-hello-hi-scooby-scoob-gif-15564356]()]()
+[![]()]()
 <h1 align="center">Hi 👋, I'm Julita</h1>
 <h3 align="center">I am a fourth-year student of computer science, and I aspire to develop myself as a backend developer.</h3>
 
