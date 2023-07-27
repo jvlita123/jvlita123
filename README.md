@@ -2,7 +2,8 @@
 <h3 align="center">I am a fourth-year student of computer science, and I aspire to develop myself as a backend developer.</h3>
 
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I am currently developing my skills in .NET Core **.Net**
+- 📚 I am planning to learn React
 
 </p>
 
