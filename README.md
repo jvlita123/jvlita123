@@ -1,4 +1,4 @@
-[![]()]()
+<div class="tenor-gif-embed" data-postid="15564356" data-share-method="host" data-aspect-ratio="1.64356" data-width="100%"><a href="https://tenor.com/view/surprised-hello-hi-scooby-scoob-gif-15564356">Surprised Hello Sticker</a>from <a href="https://tenor.com/search/surprised-stickers">Surprised Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm Julita</h1>
 <h3 align="center">I am a fourth-year student of computer science, and I aspire to develop myself as a backend developer.</h3>
 
