@@ -3,7 +3,7 @@
 
 
 - 🌱 I am currently developing my skills in **.NET Core** 
-- 📚 I am planning to learn React
+- 📚 I am planning to learn **React**
 
 </p>
 
